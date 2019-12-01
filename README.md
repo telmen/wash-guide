@@ -1,1 +1,3 @@
-# washing-guide
+# Washing Guide
+
+Description of repo
