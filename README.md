@@ -1,3 +1,1 @@
-# Washing Guide
-
-Description of repo
+# Wash Guide for wearings
